@@ -79,6 +79,7 @@ ul.style1 {
 {
    background-color:white;
    min-height: 100px;
+   width:100%;
 }
 
 .navbar-brand {
@@ -130,7 +131,7 @@ ul.style1 {
    -------------------------------------- */
 
 #myCarousel {
-   margin-top: 60px;
+   margin-top: 70px;
    margin-bottom:15px;
 }
 
