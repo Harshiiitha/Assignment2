@@ -20,8 +20,9 @@ footer {
    color: #eee;
    font-size: 11px;
    padding: 20px;
+   width:100%;
 }
-
+ 
 
 /* --------------------------------------
    Typography
@@ -158,6 +159,11 @@ ul.style1 {
 #slide4 {
     top center no-repeat;
 }
+.carouselstyle
+{
+  width:100%;
+  height:100%;
+}
 
 /* --------------------------------------
    Global Styles
@@ -200,4 +206,14 @@ ul.style1 {
   width:20px;
   height:20px;
   margin-bottom:10px;
+}
+#headingstyle
+{
+  text-align:center;
+  margin-bottom:35px;
+}
+.paragraphstyle
+{
+  font-size:20px;
+  margin-bottom:30px;
 }
